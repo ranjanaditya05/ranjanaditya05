@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ranjanaditya05.ranjanaditya05" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=hey!+👋;+I'm+Vansh+Sahay!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=hey!+👋;+I'm+Aditya+Ranjan!;" />
 </h1>
 
 <h3 align="center">A passionate CCE student from MIT Manipal</h3>
