@@ -49,9 +49,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahayvansh/sahayvansh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahayvansh/sahayvansh/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sahayvansh/sahayvansh/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjanaditya05/ranjanaditya05/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjanaditya05/ranjanaditya05/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ranjanaditya05/ranjanaditya05/output/github-contribution-grid-snake.svg" />
   </picture>
   <br/><br/><br/>
 </div>
@@ -62,7 +62,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=sahayvansh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ranjanaditya05&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
      <br/>
   <br/>
 <!--   <img width=325 align="center" src="[![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahayvansh)](https://github.com/anuraghazra/github-readme-stats)" alt="top langs" /> -->
