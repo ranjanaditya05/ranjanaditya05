@@ -45,7 +45,7 @@
 <hr/>
 
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <picture>
@@ -55,7 +55,7 @@
   </picture>
   <br/><br/><br/>
 </div>
-<hr/>
+<hr/> -->
 
 
 
